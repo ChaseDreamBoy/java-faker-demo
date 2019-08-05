@@ -42,5 +42,6 @@ Faker faker = new Faker(new Locale("zh-CN"));
 
 <h1>五、使用示例</h1>
 
+测试示例 : <a href="https://github.com/ChaseDreamBoy/java-faker-demo/blob/master/src/test/java/com/xh/util/FakerUtilTest.java">https://github.com/ChaseDreamBoy/java-faker-demo/blob/master/src/test/java/com/xh/util/FakerUtilTest.java</a>
 
 
